@@ -1,0 +1,12 @@
+1. The record.txt and sale.txt in the folders of test cases are UPDATED after running the program, not the original ones.
+2. For the record.txt and sale.txt, only the files updated will be shown in test cases folders.
+   - For example, since using searching will not make any changes to the record.txt and sale.txt, 
+     we do not provide the record.txt and sales.txt, as they remain the same before and after running the program.
+   - For example, when inserting new item, the item has not saled before and so no changes are made to sale.txt, 
+     so only record.txt is provided.
+3. Since we want to save memory space, if there is any update for demand or status, they will be updated when running the        main.cpp AGAIN after making changes to inventory.
+   This explains why there are two record.txt in update test case 2 folder.
+   - record (after running test) will only update attributes excluding demand and status
+   - record (run main.cpp again, after running the test) will show updates in all attributes, including demand and status.
+
+Thank you for your attention!

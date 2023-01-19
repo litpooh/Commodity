@@ -1,0 +1,73 @@
+ONLY THE SEARCHED RESULTS are listed below
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+1: 
+GalaxyS9 (SMARTPHONE) from SAMSUNG at $3098
+Expected Demand: 192 | Sell this item at $3841.52 for a Return Rate of 1.24
+Stock Level: NM ——> Shop Inventory: #1 = 80; #2 = 67; #3 = 23; #4 = 42
+
+2: 
+RB-07CA (AIR_CONDITIONER) from RYOBISHI at $3380
+Expected Demand: 25 | Sell this item at $4461.6 for a Return Rate of 1.32
+Stock Level: NM ——> Shop Inventory: #1 = 10; #2 = 3; #3 = 4; #4 = 8
+
+3: 
+AF-A9UA (AIR_CONDITIONER) from SHARP at $4380
+Expected Demand: 45 | Sell this item at $6351 for a Return Rate of 1.45
+Stock Level: NM ——> Shop Inventory: #1 = 8; #2 = 0; #3 = 2; #4 = 9
+
+4: 
+P80_AIR_CLEANER (AIR_PURIFIER) from AIRFREE at $2490
+Expected Demand: 405 | Sell this item at $2514.9 for a Return Rate of 1.01
+Stock Level: LW ——> Shop Inventory: #1 = 12; #2 = 23; #3 = 28; #4 = 0
+
+5: 
+AC1215_AIR_PURIFIER (AIR_PURIFIER) from PHILIPS at $1998
+Expected Demand: 0 | Sell this item at $2597.4 for a Return Rate of 1.3
+Stock Level: NA ——> Shop Inventory: #1 = 13; #2 = 57; #3 = 36; #4 = 22
+
+6: 
+KJ455F-6_AIR_PURIFIER (AIR_PURIFIER) from 3M at $1998
+Expected Demand: 185 | Sell this item at $2297.7 for a Return Rate of 1.15
+Stock Level: OS ——> Shop Inventory: #1 = 0; #2 = 0; #3 = 0; #4 = 0
+
+7: 
+SK8_WIRELESS_SOUNDBAR (AUDIO) from LG at $2380
+Expected Demand: 1597 | Sell this item at $3927 for a Return Rate of 1.65
+Stock Level: EC ——> Shop Inventory: #1 = 900; #2 = 293; #3 = 1189; #4 = 892
+
+8: 
+D-T1_CD_MICRO_HIFI (AUDIO) from DENON at $2230
+Expected Demand: 442 | Sell this item at $2698.3 for a Return Rate of 1.21
+Stock Level: EC ——> Shop Inventory: #1 = 24; #2 = 351; #3 = 243; #4 = 36
+
+9: 
+BOV820BSS_SMART_OVEN (OVEN) from BREVILLE at $2880
+Expected Demand: 261 | Sell this item at $4809.6 for a Return Rate of 1.67
+Stock Level: LW ——> Shop Inventory: #1 = 2; #2 = 4; #3 = 8; #4 = 29
+
+10: 
+C3_MEDICAIR_VACUUM_CLEANER (CLEANER) from MIELE at $4288
+Expected Demand: 2177 | Sell this item at $7075.2 for a Return Rate of 1.65
+Stock Level: NM ——> Shop Inventory: #1 = 322; #2 = 423; #3 = 422; #4 = 576
+
+11: 
+NJ-EE107H_RICE_COOKER (RICE_COOKER) from MITSUBISHI_ELECTRIC at $2580
+Expected Demand: 0 | Sell this item at $3612 for a Return Rate of 1.4
+Stock Level: NA ——> Shop Inventory: #1 = 452; #2 = 451; #3 = 67; #4 = 446
+
+12: 
+DS450_1-DOOR_REFRIGERATOR (REFRIGERATOR) from DOMETIC at $1300
+Expected Demand: 3008 | Sell this item at $1599 for a Return Rate of 1.23
+Stock Level: LW ——> Shop Inventory: #1 = 34; #2 = 23; #3 = 63; #4 = 23
+
+13: 
+PHK15BM_2-DOOR_REFRIGERATOR (REFRIGERATOR) from PHILCO at $3140
+Expected Demand: 2950 | Sell this item at $4364.6 for a Return Rate of 1.39
+Stock Level: NM ——> Shop Inventory: #1 = 2345; #2 = 231; #3 = 354; #4 = 645
+
+14: 
+RH310P7H_2-DOOR_REFRIGERATOR (RREFRIGERATOR) from HITACHI at $3800
+Expected Demand: 429 | Sell this item at $4712 for a Return Rate of 1.24
+Stock Level: EC ——> Shop Inventory: #1 = 264; #2 = 375; #3 = 365; #4 = 253
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––

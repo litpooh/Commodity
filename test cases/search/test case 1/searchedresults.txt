@@ -1,0 +1,28 @@
+ONLY THE SEARCHED RESULTS are listed below
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+1: 
+HUAWEI_MATEBOOK_13_LAPTOP (NOTEBOOK) from HUAWEI at $8198
+Expected Demand: 1242 | Sell this item at $10575.4 for a Return Rate of 1.29
+Stock Level: EC ——> Shop Inventory: #1 = 134; #2 = 795; #3 = 342; #4 = 432
+
+2: 
+VAIO_SE14_I5-8265U (NOTEBOOK) from VAIO at $7998
+Expected Demand: 0 | Sell this item at $8397.9 for a Return Rate of 1.05
+Stock Level: NA ——> Shop Inventory: #1 = 43; #2 = 24; #3 = 34; #4 = 5
+
+3: 
+VAIO_SE1_I7 (NOTEBOOK) from VAIO at $11498
+Expected Demand: 442 | Sell this item at $13222.7 for a Return Rate of 1.15
+Stock Level: LW ——> Shop Inventory: #1 = 0; #2 = 9; #3 = 8; #4 = 2
+
+4: 
+Samsung_Notebook_9_Pen (NOTEBOOK) from SAMSUNG at $12790
+Expected Demand: 283 | Sell this item at $16243.3 for a Return Rate of 1.27
+Stock Level: NM ——> Shop Inventory: #1 = 34; #2 = 53; #3 = 12; #4 = 47
+
+5: 
+Samsung_Notebook_9_Always (NOTEBOOK) from SAMSUNG at $8999
+Expected Demand: 2482 | Sell this item at $9988.89 for a Return Rate of 1.11
+Stock Level: EC ——> Shop Inventory: #1 = 500; #2 = 1244; #3 = 2892; #4 = 182
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
